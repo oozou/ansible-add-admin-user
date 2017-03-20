@@ -1,0 +1,5 @@
+---
+add_admin_user:
+  remove_all_other_sudo_rights: true
+  use_key_url: false
+  use_key_file: false
